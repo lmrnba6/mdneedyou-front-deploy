@@ -8008,7 +8008,7 @@ section#workingHoursBody {
     display: block; }
   .container.owner .rbc-toolbar > span:nth-child(3) button {
     display: none !important; }
-  .container.owner .col-md-1 {
+  .container.owner .form-horizontal .form-group {
     float: none; }
   .container.owner h5 {
     margin-top: 40px; }
