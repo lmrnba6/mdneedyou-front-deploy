@@ -7569,11 +7569,13 @@ footer {
 
 #autoComplete .btn {
   border-radius: 200px;
-  width: 25%;
   height: 60px; }
 
-#autoComplete input#trickAutoComplete {
+#autoComplete button#trickAutoComplete {
   opacity: 0; }
+
+#autoComplete input {
+  float: none !important; }
 
 .filterBar {
   padding: 0;
