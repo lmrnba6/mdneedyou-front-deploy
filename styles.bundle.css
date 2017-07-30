@@ -8012,6 +8012,8 @@ section#workingHoursBody {
     display: none !important; }
   .container.owner .form-horizontal .form-group {
     float: none; }
+  .container.owner th input {
+    width: 100%; }
   .container.owner h5 {
     margin-top: 40px; }
   .container.owner .rbc-month-row {
