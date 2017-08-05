@@ -7893,6 +7893,19 @@ section#workingHoursBody {
 .appointment #datePicker {
   height: auto; }
 
+.appointment label {
+  color: white; }
+
+.appointment .dateFeild {
+  display: grid; }
+
+.appointment .hours {
+  display: grid;
+  float: right;
+  margin-left: 20px; }
+  .appointment .hours #hoursLabel {
+    margin-left: 20px; }
+
 .appointment .react-date-field--theme-default {
   border: none !important; }
 
